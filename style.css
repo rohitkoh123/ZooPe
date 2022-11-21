@@ -96,7 +96,7 @@ p {
 /*Title Image*/
 
 .title-image {
-  width: 60%;
+  width: 50%;
   transform: rotate(25deg);
   position: absolute;
   right: 10%;
@@ -105,10 +105,10 @@ img {
   width: 100px;
 }
 .second-image {
-  width: 60%;
+  width: 50%;
   transform: rotate(25deg);
-  position: relative;
-  left: 58%;
+  position: absolute;
+  left: 10%;
 }
 
 /*Features-Section*/
