@@ -1,7 +1,6 @@
-# ZooPe
+## ZooPe
 
-The website created here is a pets care website that is helpful in all ways one can imagine for. The basic idea behid designing this website was the though and the will together with the love that I have towards animals and this is what dedicated me to help them in all the way I can.
-It consist of total of four pages. Each of these pages provide imminent amount of information about our website as well as the features that are provided by it.
+The website which we have create here is for the purpose of online payments as well as the expense record it will be maintaining how much you are spending over the items and putting it according to the category 
 
 The first page: HOME
 In this page all the information about the website as well as small knowledge about what we do, what are the services that we are providing, all the customers that we have helped and also a section for adoption as well as a subcriber to our website is given.
